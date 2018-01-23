@@ -1,0 +1,12 @@
+test	description	times	total_time
+Script Looping	Execute an empty For/Next loop.	1000000	0.062
+TAK Benchmark	The TAK Benchmark is a widely used algorithm to compare programming tools that make extensive use of funciton calls.	2	0.203
+Array Sorting	Sort the values in an array that is initially sorted in reverse order.	500	0.094
+Global Function Overhead	Call an empty global function.	50000	0.078
+Object Function Overhead	Call an empty object (window) function.	50000	1.016
+Event Overhead	Trigger an empty event.	50000	0.656
+Window Instantiation	Open a window with no controls.	50	0.39
+String Parsing	Change all occurrences of one string within another.	4	0.282
+Global Variable	Use a global variable in an assignment statement.	500000	0.093
+Global Constant	Use a global constant in an assignment statement.	500000	0.079
+Using DataStores	Copy all rows from a DataStore into variables using GetItem..., then write them to another DataStore using SetItem.	5	0.937

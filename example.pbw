@@ -1,0 +1,11 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "Code Examples\\Benchmark\\Benchmark.pbt";
+ 1 "Code Examples\\DWGradientTransparency\\dw_gradient_transparency.pbt";
+ 2 "Code Examples\\DWRichTextEditStyle\\rtedemo.pbt";
+ 3 "Code Examples\\Example App\\PB Examples.pbt";
+ 4 "Code Examples\\MDIDockingDemo\\dockwindowdemo.pbt";
+ 5 "Code Examples\\Treeview DataWindow and DatePicker\\pbdemos.pbt";
+@end;
+DefaultTarget "Code Examples\\Example App\\PB Examples.pbt";
+DefaultRemoteTarget "Code Examples\\Example App\\PB Examples.pbt";
